@@ -26,3 +26,16 @@
 .Griditem.active {
     background-color: rgb(129, 58, 58);
 }
+
+.Selectorbox {
+    border: 8px solid rgb(54, 54, 54);
+    font-size: 30px;
+    margin-left: 70px;  
+    width: 1658px;
+    height: 100px;
+    padding-left: 200px;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: flex-start;
+    column-gap: 400px;
+}
