@@ -1,5 +1,4 @@
 let selectedcolor = "rgb(161, 161, 161)";
-
 function colorred() {
     selectedcolor = "rgb(148, 25, 25)";
 }
@@ -9,7 +8,6 @@ function colordarkred() {
 function colorlightred() {
     selectedcolor = "rgb(139, 81, 81)";
 }
-
 function colorblue() {
     selectedcolor = "rgb(40, 53, 165)";
 }
@@ -22,7 +20,6 @@ function colorlightblue() {
 function colorcyan() {
     selectedcolor = "rgb(30, 118, 145)";
 }
-
 function colorgreen() {
     selectedcolor = "rgb(38, 126, 38)";
 }
@@ -48,17 +45,24 @@ function colordarkorange() {
     selectedcolor = "rgb(131, 68, 26)";
 }
 function colorlightorange() {
-    selectedcolor = "rgb(153, 84, 39)";
+    selectedcolor = "rgb(160, 108, 74)";
 }
 function colorblack() {
     selectedcolor = "rgb(34, 33, 33)";
 }
-
 function coloreraser() {
     selectedcolor =  "rgb(161, 161, 161)";
+}
+function colorviolet() {
+    selectedcolor = "rgb(60, 20, 155)";
+}
+function colordarkviolet() {
+    selectedcolor = "rgb(36, 12, 92)";
+}
+function colorlightviolet() {
+    selectedcolor = "rgb(76, 46, 148)";
 }
 
 function boxclick(box) {
     box.style.backgroundColor = selectedcolor;
 }
-
