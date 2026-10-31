@@ -48,7 +48,7 @@ function colordarkorange() {
     selectedcolor = "rgb(131, 68, 26)";
 }
 function colorlightorange() {
-    selectedcolor = "rgb(160, 104, 66)";
+    selectedcolor = "rgb(153, 84, 39)";
 }
 function colorblack() {
     selectedcolor = "rgb(34, 33, 33)";

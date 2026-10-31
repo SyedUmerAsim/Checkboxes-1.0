@@ -35,11 +35,134 @@ body {
     font-size: 30px;
     margin-left: 80px;  
     width: 1890px;
-    height: 200px;
+    height: 250px;
     padding-left: 150px;
     display: flex;
     flex-wrap: wrap;
     align-content: flex-start;
     column-gap: 230px;
     row-gap: 20px;
+}
+
+
+#selectred {
+    color: rgb(148, 25, 25);
+    border: 7px solid transparent;
+}
+#selectred:active {
+    border-color: rgb(148, 25, 25);
+}
+#selectdarkred {
+    color: rgb(104, 13, 13);
+    border: 7px solid transparent;
+}
+#selectdarkred:active {
+    border-color: rgb(104, 13, 13);
+}
+#selectlightred {
+    color: rgb(139, 81, 81);
+    border: 7px solid transparent;
+}
+#selectlightred:active {
+    border-color: rgb(139, 81, 81);
+}
+#selectblue {
+    color: rgb(40, 53, 165);
+    border: 7px solid transparent;
+}
+#selectblue:active {
+    border-color: rgb(40, 53, 165);
+}
+#selectdarkblue {
+    color: rgb(27, 35, 109);
+    border: 7px solid transparent;
+}
+#selectdarkblue:active {
+    border-color: rgb(27, 35, 109);
+}
+#selectlightblue {
+    color: rgb(62, 72, 163);
+    border: 7px solid transparent;
+}
+#selectlightblue:active {
+    border-color: rgb(62, 72, 163);
+}
+#selectcyan {
+    color: rgb(30, 118, 145);
+    border: 7px solid transparent;
+}
+#selectcyan:active {
+    border-color: rgb(30, 118, 145);
+}
+#selectgreen {
+    color: rgb(38, 126, 38);
+    border: 7px solid transparent;
+}
+#selectgreen:active {
+    border-color: rgb(38, 126, 38);
+}
+#selectdarkgreen {
+    color: rgb(26, 104, 26);
+    border: 7px solid transparent;
+}
+#selectdarkgreen:active {
+    border-color: rgb(26, 104, 26);
+}
+#selectlightgreen {
+    color: rgb(43, 94, 50);
+    border: 7px solid transparent;
+}
+#selectlightgreen:active {
+    border-color: rgb(74, 165, 86);
+}
+#selectblack {
+    border: 7px solid transparent;
+}
+#selectblack:active {
+    border-color: black;
+}
+
+
+
+#selectyellow {
+    color: rgb(184, 181, 34);
+    border: 7px solid transparent;
+}
+#selectyellow:active {
+    border-color: rgb(184, 181, 34);
+}
+#selectdarkyellow {
+    color: rgb(78, 77, 28);
+    border: 7px solid transparent;
+}
+#selectdarkyellow:active {
+    border-color: rgb(138, 136, 50);
+}
+#selectlightyellow {
+    color: rgb(201, 199, 72);
+    border: 7px solid transparent;
+}
+#selectlightyellow:active {
+    border-color: rgb(201, 199, 72);
+}
+#selectorange {
+    color: rgb(153, 84, 39);
+    border: 7px solid transparent;
+}
+#selectorange:active {
+    border-color: rgb(153, 84, 39);
+}
+#selectdarkorange {
+    color: rgb(131, 68, 26);
+    border: 7px solid transparent;
+}
+#selectdarkorange:active {
+    border-color: rgb(131, 68, 26);
+}
+#selectlightorange {
+    color: rgb(153, 84, 39);
+    border: 7px solid transparent;
+}
+#selectlightorange:active {
+    border-color: rgb(153, 84, 39);
 }
